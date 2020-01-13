@@ -1,4 +1,4 @@
-# Raspberry-pi-rover-control-with-human-gesture-recognition
+# Raspberry pi rover control with human gesture recognition and voice commands
 
 “To make automation accessible with human
 gestures recognition”. The idea is to make a rover whose control is accessible by the gestures of
