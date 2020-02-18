@@ -41,7 +41,7 @@ def xx(x):
 
 
 
-		print("yoyobaba..rockzz..")
+		print("worked..")
 
 #xx()
 @app.route("/", methods=['POST'])
